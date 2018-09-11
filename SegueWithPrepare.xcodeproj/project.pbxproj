@@ -13,6 +13,7 @@
 		D04C0EC321477D2C00672B0E /* SegueWithPrepare.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D04C0EC121477D2C00672B0E /* SegueWithPrepare.xcdatamodeld */; };
 		D04C0EC521477D2D00672B0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D04C0EC421477D2D00672B0E /* Assets.xcassets */; };
 		D04C0EC821477D2D00672B0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D04C0EC621477D2D00672B0E /* LaunchScreen.storyboard */; };
+		D04C0ED021477DC200672B0E /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04C0ECF21477DC200672B0E /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D04C0EC421477D2D00672B0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D04C0EC721477D2D00672B0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D04C0EC921477D2D00672B0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D04C0ECF21477DC200672B0E /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D04C0EBA21477D2C00672B0E /* AppDelegate.swift */,
 				D04C0EBC21477D2C00672B0E /* ViewController.swift */,
+				D04C0ECF21477DC200672B0E /* SecondVC.swift */,
 				D04C0EBE21477D2C00672B0E /* Main.storyboard */,
 				D04C0EC421477D2D00672B0E /* Assets.xcassets */,
 				D04C0EC621477D2D00672B0E /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				D04C0EBD21477D2C00672B0E /* ViewController.swift in Sources */,
 				D04C0EBB21477D2C00672B0E /* AppDelegate.swift in Sources */,
+				D04C0ED021477DC200672B0E /* SecondVC.swift in Sources */,
 				D04C0EC321477D2C00672B0E /* SegueWithPrepare.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
